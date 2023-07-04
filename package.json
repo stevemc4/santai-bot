@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/stevemc4/santai-bot#readme",
   "dependencies": {
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "h3": "^1.7.1",
+    "listhen": "^1.0.4"
   }
 }
